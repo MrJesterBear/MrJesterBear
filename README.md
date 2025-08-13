@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">Tech I know and learning:</p>
+<p align="left">Tech I know and learning:</p>
 
 ###
 
